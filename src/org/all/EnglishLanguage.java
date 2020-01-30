@@ -3,7 +3,8 @@ package org.all;
 public class EnglishLanguage extends TelguLanguage {
 public void english() {
 	// TODO Auto-generated method stub
-	System.err.println("i know");
+	System.out.println("i know");
+	System.out.println("123456789");
 
 }
 public static void main(String[] args) {
